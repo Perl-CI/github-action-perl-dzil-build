@@ -1,0 +1,6 @@
+name: 'github-action-perl-dzil-build'
+description: Build a Perl project with Dist::Zilla
+author: Sebastien Thebert
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
