@@ -1,4 +1,4 @@
-# github-action-perl-dizl-build
+# github-action-perl-dzil-build
 
 [Github Action](https://github.com/features/actions) to Build Perl project with [Dist::Zilla](https://metacpan.org/pod/Dist::Zilla)
 
